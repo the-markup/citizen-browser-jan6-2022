@@ -15,7 +15,7 @@ This CSV file contains the unique links shown to Citizen Browser panelists who r
 ## Query parameters
 
 ### Time Frame
-Our query requested data observed between **Jan. 1, 2022**, and **Jan. 6, 2022**.
+Our query requested data observed between **Dec. 30, 2021**, and **Jan. 5, 2022**.
 
 ### Demographics
 We filtered the data to only include observations from Citizen Browser panelists who reported voting for Joseph Biden or Donald Trump in the 2020 U.S. general election.
