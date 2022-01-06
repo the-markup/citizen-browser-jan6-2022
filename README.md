@@ -1,5 +1,5 @@
 # Citizen Browser - One Year after the Capitol Riot on Facebook
-This repository contains code to reproduce the findings featured in our story: "[One Year After the Capitol Riot, Americans Still See Two Very Different Facebooks](https://themarkup.org/citizen-browser/2021/01/14/biden-and-trump-voters-were-exposed-to-radically-different-coverage-of-the-capitol-riot-on-facebook)" from our series [Citizen Browser](https://themarkup.org/series/citizen-browser/).
+This repository contains code to reproduce the findings featured in our story: "[One Year After the Capitol Riot, Americans Still See Two Very Different Facebooks](https://themarkup.org/citizen-browser/2022/01/06/one-year-after-the-capitol-riot-americans-still-see-two-very-different-facebooks)" from our series [Citizen Browser](https://themarkup.org/series/citizen-browser/).
 
 Our methodology is described in "[How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)."
 
