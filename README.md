@@ -22,7 +22,7 @@ We filtered the data to only include observations from Citizen Browser panelists
 
 ### Keywords
 We performed a keyword search for the following terms: 
-`"capitol", "jan. 6", "january 6"`
+`"capitol", "jan. 6", "january 6".`
 
 We looked for these terms in Facebook posts, link URLs, and the poster's account name and page address.
 
