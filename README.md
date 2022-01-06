@@ -1,4 +1,4 @@
-# Citizen Browser - Capitol Riot on Facebook
+# Citizen Browser - One Year after the Capitol Riot on Facebook
 This repository contains code to reproduce the findings featured in our story: "[One Year After the Capitol Riot, Americans Still See Two Very Different Facebooks](https://themarkup.org/citizen-browser/2021/01/14/biden-and-trump-voters-were-exposed-to-radically-different-coverage-of-the-capitol-riot-on-facebook)" from our series [Citizen Browser](https://themarkup.org/series/citizen-browser/).
 
 Our methodology is described in "[How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)."
@@ -15,7 +15,7 @@ This CSV file contains the unique links shown to Citizen Browser panelists who r
 ## Query parameters
 
 ### Time Frame
-Our query requested data observed between **Jan. 1, 2022**, and **Jan. 7, 2022**.
+Our query requested data observed between **Jan. 1, 2022**, and **Jan. 6, 2022**.
 
 ### Demographics
 We filtered the data to only include observations from Citizen Browser panelists who reported voting for Joseph Biden or Donald Trump in the 2020 U.S. general election.
